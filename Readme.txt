@@ -1,5 +1,7 @@
 Purdue University Thesis Template
 
+Detailed information on how to use this template you can find on https://bit.ly/puthesis
+
 ===================================================
 
 Original sources: https://bit.ly/puthesis
